@@ -1,6 +1,6 @@
 # Project Name
 
-This is the README file for the project "Project Name". It provides an overview of the project and instructions on how to set it up and use it.
+This is the README file for the project "Project Name". It provides an overview of the project and instructions on how to set it up and use it. 
 
 ## Table of Contents
 
